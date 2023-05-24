@@ -1,0 +1,104 @@
+body{
+    background-color: #bdbdbd;
+    width: 1140px;
+    margin: 50px auto 70px auto;
+}
+.head{
+    background-color: #DFDFDF;
+    color: #848485;
+    padding: 5px 15px;
+    margin-bottom: 20px;
+}
+.level1{
+    color: white;
+    text-transform: uppercase;
+    background-color: #0088dc;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level2{
+    color: white;
+    background-color: #0095e2;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level3{
+    color: white;
+    background-color: #00a0e6;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level4{
+    color: white;
+    background-color: #2fabe7;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level5{
+    color: white;
+    background-color: #53b5f2;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level6{
+    color: white;
+    background-color: #74c1ef;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level7{
+    color: white;
+    background-color: #8ec9f1;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level8{
+    color: white;
+    text-transform: uppercase;
+    background-color: #00ba8b;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level9{
+    color: white;
+    background-color: #f2b0cb;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level10{
+    color: white;
+    background-color: #f69fc1;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level11{
+    color: white;
+    background-color: #f58db2;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level12{
+    color: white;
+    background-color: #f47ba6;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level13{
+    color: white;
+    background-color: #f36a98;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level14{
+    color: white;
+    background-color: #f45a8c;
+    padding: 10px;
+    margin-bottom: -16px;
+}
+.level15{
+    color: white;
+    text-transform: uppercase;
+    background-color: #f03d7f;
+    padding: 10px;
+    margin-bottom: -16px;
+}
